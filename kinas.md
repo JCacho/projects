@@ -43,7 +43,7 @@
 
 ## URL 
 
- Visita-nos em [here](https://www.facebook.com/KinasBot/).
+ Visita-nos [aqui](https://www.facebook.com/KinasBot/).
 
  _Visit us [here](https://www.facebook.com/KinasBot/)._
 
